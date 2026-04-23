@@ -4,7 +4,7 @@ Hola, bienvenido a mi perfil de GitHub. Actualmente le entiendo a **HTML**, **CS
  
 [🌐 Sitio web](https://elmichiyt.github.io/) disponible!
 
- ## My GitHub Statistics
+ ## GitHub Statistics
  #### Mis estadísticas (:'v)
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElmichiYT&show_icons=true&count_private=true&hide_border=true&title_color=CB78FF&icon_color=795BE5&text_color=c9d1d9&bg_color=0d1117" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmichiYT&layout=compact&hide_border=true&title_color=CB78FF&text_color=FFFFFF&bg_color=0d1117" />
