@@ -1,18 +1,31 @@
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmichiYT&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=795BE5&fire=CB78FF&currStreakLabel=CB78FF" />
+<div align="center">
 
-Hola, bienvenido a mi perfil de GitHub. Actualmente le entiendo a **HTML**, **CSS**, **Batch**, muy poco **Python** y quiero aprender **C#**.
- 
-[🌐 Sitio web](https://elmichiyt.github.io/) disponible!
+# ElmichiYT
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmichiYT&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=795BE5&fire=CB78FF&currStreakLabel=CB78FF" />
 
- ## GitHub Statistics
- #### Mis estadísticas (:'v)
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElmichiYT&show_icons=true&count_private=true&hide_border=true&title_color=CB78FF&icon_color=795BE5&text_color=c9d1d9&bg_color=0d1117" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmichiYT&layout=compact&hide_border=true&title_color=CB78FF&text_color=FFFFFF&bg_color=0d1117" />
+Hola. Bienvenido a mi perfil de GitHub.  
+Actualmente le entiendo a **HTML**, **CSS**, **Batch**, muy poco **Python** y quiero aprender **C#**.
+
+Aquí en GitHub podría subir proyectos para el público. Sean o no Open-Source. Gracias.
  
- #### Trophies
+🌐 **Tengo sitio web: https://elmichiyt.github.io/**
+
+## Redes sociales
+| Red social | Enlace |
+| --- | --- |
+| YouTube | [Enlace](https://www.youtube.com/@El_michiYouTube) |
+| Twitter (X) | [Enlace](https://x.com/ElmichiYT_)
+| Blogs | [Enlace](https://elmichiyt.blogspot.com/)
+ 
+ ## Trophies
+ **NOTA:** A veces esta parte no funciona, otros días sí. Algún día servirá.
+
  [![Trophies](https://github-profile-trophy.vercel.app/?username=ElmichiYT&theme=onedark&row=1)](https://github.com/ElmichiYT)
  
 #### Lenguajes que más he escrito
 ![HTML](https://raw.githubusercontent.com/ElmichiYT/ElmichiYT/master/icons/html.png)
 ![CSS](https://raw.githubusercontent.com/ElmichiYT/ElmichiYT/master/icons/css.png)
- </div>
+
+</div>
+
+###### Made by [ElmichiYT](https://www.elmichiyt.github.io/)
