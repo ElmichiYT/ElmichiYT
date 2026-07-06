@@ -17,10 +17,8 @@ Aquí en GitHub podría subir proyectos para el público. Sean o no Open-Source.
 | Twitter (X) | [Enlace](https://x.com/ElmichiYT_)
 | Blogs | [Enlace](https://elmichiyt.blogspot.com/)
  
- ## Trophies
- **NOTA:** A veces esta parte no funciona, otros días sí. Algún día servirá.
-
- [![Trophies](https://github-profile-trophy.vercel.app/?username=ElmichiYT&theme=onedark&row=1)](https://github.com/ElmichiYT)
+ ## Estadísticas:
+ ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElmichiYT&theme=discord_old_blurple)
  
 #### Lenguajes que más he escrito
 ![HTML](https://raw.githubusercontent.com/ElmichiYT/ElmichiYT/master/icons/html.png)
